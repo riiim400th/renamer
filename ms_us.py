@@ -1,0 +1,8 @@
+dt_top = "Renamed Files"
+dt_top_text = "Renamed Files:"
+dt_root_ms = "Select File to Rename"
+dt_root_bt = "Select"
+ms_newnames = "Enter new filenames (one per line, press 'Cancel' to finish):"
+ms_noinput = "No input"
+ms_dontmatch = "Number of files does not match the number of filenames entered."
+ms_success = "File renamed successfully!"
