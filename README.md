@@ -2,6 +2,7 @@
 
 **"Simple file renaming tool."**
 
+## How to use
 
 1. Select multiple files to rename.
  ( The entered file names will be arranged in alphabetical order.)
@@ -16,4 +17,8 @@
 
 ![image](https://github.com/riiim400th/renamer/assets/98566465/64130105-8b6e-4f4b-99a0-c6fe96446cd5)
 
-**We're currently seeking new ideas and desired features. Everyone, please raise issues and share your opinions!**
+
+## Use cases
+It's convenient when the renaming names are in Excel. Just copy and paste the column of names you want to use into this tool.
+
+**We're currently seeking new ideas and desired features. Everyone, please raise issues and share your ideas!**
