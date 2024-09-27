@@ -3,6 +3,7 @@
 **"Simple file renaming tool."**
 
 ## How to use
+[![スクリーンショット 2024-09-28 011017](https://github.com/user-attachments/assets/73caae58-a979-4fb5-b93a-9096ae13203b)](https://youtu.be/pY0viNtPozs)
 
 1. Select multiple files to rename.
  ( The entered file names will be arranged in alphabetical order.)
